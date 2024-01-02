@@ -19,7 +19,7 @@
     "url": "https://aws.amazon.com"
   },
   "repository": {
-    "url": "https://github.com/aws-samples/amazon-cognito-passwordless-auth",
+    "url": "https://github.com/ajoseerazo/amazon-cognito-passwordless-auth.git",
     "type": "git"
   },
   "main": "dist/client/index.js",
